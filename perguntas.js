@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como foi seu dia em inglẽs?',
-    ''
+     'How was your day?'
 )
